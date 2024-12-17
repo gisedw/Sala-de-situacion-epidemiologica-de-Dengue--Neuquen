@@ -1,2 +1,2 @@
-# Sala-de-situacion-epidemiologica-de-Dengue--Neuquen
+# Sala de situacion epidemiológica de Dengue-Neuquén
 Actualización semanal 
