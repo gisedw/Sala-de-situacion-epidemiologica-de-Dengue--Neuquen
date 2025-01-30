@@ -1,4 +1,4 @@
-![Texto alternativo]("https://github.com/gisedw/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/blob/main/logo_3.jpg")
+![Texto alternativo]("logo_3.jpg")
 # Situación Epidemiológica de Dengue 
 
 ## Enlaces a las Salas de la últimas semanas
