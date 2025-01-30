@@ -1,4 +1,4 @@
-![Texto alternativo]("logo_3.jpg")
+<img src="logo_3.jpg" alt="Mi Logo" width="200"/>
 # Situación Epidemiológica de Dengue 
 
 ## Enlaces a las Salas de la últimas semanas
