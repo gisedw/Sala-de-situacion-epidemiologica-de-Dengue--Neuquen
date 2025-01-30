@@ -1,4 +1,4 @@
-![Texto alternativo]("Logo_3.jpeg")
+![Texto alternativo]("logo_3.jpeg")
 # Situación Epidemiológica de Dengue 
 
 ## Enlaces a las Salas de la últimas semanas
