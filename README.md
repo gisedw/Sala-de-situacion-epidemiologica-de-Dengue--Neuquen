@@ -1,4 +1,5 @@
-<img src="logo_3.jpg" alt="Mi Logo" width="800"/>
+<img src="logo_3.jpg" alt="Mi Logo" width="1000"/>
+
 # Situación Epidemiológica de Dengue 
 
 ## Enlaces a las Salas de la últimas semanas
