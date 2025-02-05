@@ -11,3 +11,7 @@
 - <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Temporada_2024-2025_Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue.html#/title-slide" target="_blank" rel="noopener noreferrer">Situación epidemiológica de Dengue Temporada anterior, correspondiente al periodo: SE 31 del 2023- SE 30 del 2024 </a>
 
 Para visualizar las presentaciones en pantalla completa presione la tecla F11 o con shift + F11
+
+- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/mapa_ovitramp_SE_5.html" target="_blank" rel="noopener noreferrer">Mapa de la ciudad de Neuquén con la visualización del resultados de las ovitrampas en la última semana </a>
+
+
