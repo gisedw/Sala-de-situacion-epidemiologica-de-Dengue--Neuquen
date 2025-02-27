@@ -4,6 +4,8 @@
 
 ## Enlaces a las Salas de las últimas semanas
 
+- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue_SE_8-2025.html#/title-slide" target="_blank" rel="noopener noreferrer">Sala de Situación epidemiológica de Dengue actualizada a la SE 8-2025 </a>
+
 - <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue_SE_7-2025.html#/title-slide" target="_blank" rel="noopener noreferrer">Sala de Situación epidemiológica de Dengue actualizada a la SE 7-2025 </a>
 
 - <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue_SE_6-2025.html?print-pdf#/title-slide" target="_blank" rel="noopener noreferrer">Sala de Situación epidemiológica de Dengue actualizada a la SE 6-2025 </a>
