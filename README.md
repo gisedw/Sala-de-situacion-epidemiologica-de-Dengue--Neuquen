@@ -4,6 +4,8 @@
 
 ## Enlaces a las Salas de las últimas semanas
 
+- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue_SE_13-2025.html?print-pdf#/title-slide" target="_blank" rel="noopener noreferrer">Sala de Situación epidemiológica de Dengue actualizada a la SE 13-2025 </a>
+
 - <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue_SE_12-2025.html#/title-slide" target="_blank" rel="noopener noreferrer">Sala de Situación epidemiológica de Dengue actualizada a la SE 12-2025 </a>
 
 - <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/Situaci%C3%B3n_epidemiol%C3%B3gica_Dengue_SE_11-2025.html#/title-slide" target="_blank" rel="noopener noreferrer">Sala de Situación epidemiológica de Dengue actualizada a la SE 11-2025 </a>
@@ -30,6 +32,6 @@ Para visualizar las presentaciones en pantalla completa presione la tecla F11 o 
 
 El enlace que se encuentra a continuación, va a dirigirlo a un mapa de la ciudad de Neuquén con los barrios, los establecimientos de salud y los puntos, con buffer de 100 metros, que representan los resultados de las ovitrampas de la última semana y de las semanas anteriores. Además dispone de un buscador para poder ubicar con un punto los nuevos casos sospechosos notificados.
 
-- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/mapa_ovitramp_interactivo.html" target="_blank" rel="noopener noreferrer">Mapa de la ciudad de Neuquén con la visualización de los resultados de las ovitrampas en la última semana </a>
+- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/mapa_ovitramp_13.html" target="_blank" rel="noopener noreferrer">Mapa de la ciudad de Neuquén con la visualización de los resultados de las ovitrampas en la última semana </a>
 
 
