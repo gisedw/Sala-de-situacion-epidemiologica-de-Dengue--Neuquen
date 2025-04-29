@@ -40,6 +40,6 @@ Para visualizar las presentaciones en pantalla completa presione la tecla F11 o 
 
 El enlace que se encuentra a continuación, va a dirigirlo a un mapa de la ciudad de Neuquén con los barrios, los establecimientos de salud y los puntos, con buffer de 100 metros, que representan los resultados de las ovitrampas de la última semana y de las semanas anteriores. Además dispone de un buscador para poder ubicar con un punto los nuevos casos sospechosos notificados.
 
-- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/mapa_ovitramp_16.html" target="_blank" rel="noopener noreferrer">Mapa de la ciudad de Neuquén con la visualización de los resultados de las ovitrampas en la última semana </a>
+- <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/mapa_ovitramp_SE_17.html" target="_blank" rel="noopener noreferrer">Mapa de la ciudad de Neuquén con la visualización de los resultados de las ovitrampas en la última semana </a>
 
 
